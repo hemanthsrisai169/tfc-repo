@@ -1,0 +1,69 @@
+{
+  "header": {
+    "onboard_status": 1,
+    "contentEnvironment": "production",
+    "placement": "INFEED",
+    "contentBackgroundInViewWhenRequested": false,
+    "version": 9,
+    "isDraft": false,
+    "viewCreationTS": 605599589.919083,
+    "referral": {
+      "campaignId": "",
+      "location": "",
+      "publisherInventory": false
+    }
+  },
+  "body": {
+    "activeAdIdentifiers": [],
+    "groupContextAbove": {
+      "id": "",
+      "categories": [],
+      "keywords": [],
+      "type": "",
+      "languages": []
+    },
+    "groupContextBelow": {
+      "id": "",
+      "categories": [],
+      "keywords": [],
+      "type": "",
+      "languages": []
+    },
+    "anfComponentMetadata": {
+      "spotlight": false,
+      "source": {
+        "contentProvider": 0
+      },
+      "shouldUseComponentMetadata": false
+    },
+    "advertisementType": "Standard",
+    "subscriptionType": "None",
+    "adOpId": "2DE27108-FC3D-4A59-87EE-6054D60EFC6B",
+    "creativeType": "ANY",
+    "version": -1,
+    "bundleIAPs": [],
+    "feedMetadata": {
+      "channelId": "TWnoJEyylRkqOFV6TfyhUnA",
+      "contentProviderId": 302456,
+      "categories": [
+        "Tq5f_vkiIEeq3fy5yjOiBJQ"
+      ],
+      "additionalFeedMetadata": "",
+      "sectionId": "TAu1PpSS9SIWRDRskPbRvqA",
+      "rating": "GENERAL",
+      "customTargetingId": "",
+      "keywords": [
+        ""
+      ],
+      "languages": [
+        "en"
+      ]
+    },
+    "isFullScreen": false,
+    "numScreenfulsFromTop": 0,
+    "invalidCategoriesCount": 0,
+    "referralLocation": "",
+    "referralIsPublisher": false,
+    "contentProviderId": -1
+  }
+}
